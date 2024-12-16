@@ -1,4 +1,5 @@
 salom
+konechuva
 qale
 hi
 hello
